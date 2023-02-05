@@ -1,10 +1,10 @@
 enableRating = true;
 
-note.hitOnBotplay = false;
-
 // enableMiss(true);
 
 function create() {
+    note.hitOnBotplay = false;
+
     note.frames = Paths.getSparrowAtlas("notes_eye");
 
     switch(note.noteData % PlayState.song.keyNumber) {
@@ -29,7 +29,7 @@ function create() {
     note.setGraphicSize(Std.int(note.width * 0.7));
     note.updateHitbox();
     note.antialiasing = true;
-    note.splashColor = 0xFF000000;
+    note.splashColor = 0x00ffae;
 
     note.animation.play("scroll");
     if (note.isSustainNote) {
@@ -43,7 +43,7 @@ function create() {
 function onPlayerHit(note){
     PlayState.health -=3;
 }
- 
+
 function onMiss(note){
     return false;
 }

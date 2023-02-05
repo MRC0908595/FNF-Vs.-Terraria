@@ -1,9 +1,9 @@
 {
 	"arrowColors": [
 		"#0033FF",
-		"#0033FF",
+		"#00B7FF",
 		"#0043FF",
-		"#060EFE"
+		"#0698FE"
 	],
 	"camOffset": {
 		"x": 0,
@@ -13,7 +13,7 @@
 		"x": -110,
 		"y": 380
 	},
-	"healthbarColor": "#4188FA",
+	"healthbarColor": "#4187F8",
 	"flipX": false,
 	"anims": [
 		{
@@ -30,8 +30,8 @@
 			"x": 0,
 			"y": 0,
 			"anim": "Slime right",
-			"loop": false,
-			"name": "singRight",
+			"loop": true,
+			"name": "singRIGHT",
 			"framerate": 24
 		},
 		{
@@ -39,8 +39,17 @@
 			"x": 0,
 			"y": 0,
 			"anim": "Slime down",
-			"loop": false,
-			"name": "singDown",
+			"loop": true,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Slime up",
+			"loop": true,
+			"name": "singUP",
 			"framerate": 24
 		},
 		{
@@ -49,16 +58,7 @@
 			"y": 0,
 			"anim": "Slime left",
 			"loop": false,
-			"name": "singLeft",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 0,
-			"y": 0,
-			"anim": "Slime up",
-			"loop": false,
-			"name": "singUp",
+			"name": "singLEFT",
 			"framerate": 24
 		}
 	],
