@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Slime.png">
+<SubTexture name="Slime up0000" x="0" y="0" width="360" height="427" frameX="-120" frameY="0" frameWidth="600" frameHeight="427" />
+<SubTexture name="Slime down0000" x="0" y="854" width="599" height="356" frameX="0" frameY="-71" frameWidth="600" frameHeight="427" />
+<SubTexture name="Slime left0000" x="360" y="0" width="474" height="427" frameX="0" frameY="0" frameWidth="600" frameHeight="427" />
+<SubTexture name="Slime right0000" x="834" y="0" width="522" height="427" frameX="-77" frameY="0" frameWidth="600" frameHeight="427" />
+<SubTexture name="Slime idle0000" x="599" y="427" width="599" height="402" frameX="0" frameY="-25" frameWidth="600" frameHeight="427" />
+<SubTexture name="Slime idle0001" x="0" y="427" width="599" height="427" frameX="0" frameY="0" frameWidth="600" frameHeight="427" />
+</TextureAtlas>

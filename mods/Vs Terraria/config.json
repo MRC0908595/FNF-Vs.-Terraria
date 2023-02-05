@@ -1,0 +1,36 @@
+{
+	"skinnableGFs": [],
+	"discordRpc": null,
+	"BFskins": [],
+	"downloadLink": null,
+	"locked": false,
+	"keyNumbers": [
+		4
+	],
+	"name": "Vs. Terraria",
+	"skinnableBFs": [],
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"description": "BF and GF find a weird looking tree, and when they go near it, they are sent to a strange world known as Terraria.",
+	"titleBarName": "Friday Night Funkin' - Vs. Terraria",
+	"GFskins": [],
+	"downloadLinkAlt": null
+}

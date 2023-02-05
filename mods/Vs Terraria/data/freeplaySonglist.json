@@ -1,0 +1,16 @@
+{
+	"songs": [
+		{
+			"displayName": "testing",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "Slime",
+			"color": "#0AFA2D",
+			"name": "test",
+			"bpm": 150
+		}
+	]
+}
